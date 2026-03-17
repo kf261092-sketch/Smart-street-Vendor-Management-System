@@ -29,7 +29,7 @@ public abstract class CustomUser {
     }
 
     // Abstract methods — all subclasses MUST implement (Abstraction)
-    public abstract void   register();
+    public abstract void   register(); 
     public abstract String getStatus();
     public abstract void   displayProfile();
     public abstract String getRole();     // "VENDOR" | "INSPECTOR" | "ADMINISTRATOR"
