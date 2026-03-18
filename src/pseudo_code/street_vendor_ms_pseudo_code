@@ -6,7 +6,7 @@
 // FILE 1: CustomUser.java
 // Abstract base class — defines contract for ALL system users
 // OOP: ABSTRACTION, ENCAPSULATION
-// 
+
 
 public abstract class CustomUser {
 
